@@ -1,0 +1,1220 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"string",
+				"stringValueWithMaxLength"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"max",
+				"maxStringLength"
+			],
+			[
+				"us",
+				"usedLength"
+			],
+			[
+				"_end",
+				"_endTimeOffset"
+			],
+			[
+				"App",
+				"AppLog"
+			],
+			[
+				"play",
+				"playbackRate"
+			],
+			[
+				"start",
+				"startTime"
+			],
+			[
+				"shared",
+				"sSharedInstance"
+			],
+			[
+				"log",
+				"logSections"
+			],
+			[
+				"Logg",
+				"Logger"
+			],
+			[
+				"_",
+				"_keys"
+			],
+			[
+				"out",
+				"outSections"
+			],
+			[
+				"_isA",
+				"_isApplePad"
+			],
+			[
+				"l",
+				"lineno"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"vari",
+				"variableNames"
+			],
+			[
+				"var",
+				"variableNames"
+			],
+			[
+				"curr",
+				"currentMethodNode"
+			],
+			[
+				"sele",
+				"selectorName"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"opt",
+				"optionSqueeze"
+			],
+			[
+				"AudioPlat",
+				"AudioPlatformLog"
+			],
+			[
+				"entr",
+				"entries"
+			],
+			[
+				"all",
+				"allEntries"
+			],
+			[
+				"Debug",
+				"DebugReportCategory"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"fl",
+				"flex-direction\tproperty"
+			],
+			[
+				"fix",
+				"fixedOptions"
+			],
+			[
+				"im",
+				"importPath"
+			],
+			[
+				"orig",
+				"originalLink"
+			],
+			[
+				"or",
+				"originalLetter"
+			],
+			[
+				"lett",
+				"letterSpan"
+			],
+			[
+				"cann",
+				"canonicalElement"
+			],
+			[
+				"canon",
+				"canonicalElement"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"_link",
+				"_linkElement2"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"border-rad",
+				"border-top-left-radius\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"bor",
+				"border-top\tproperty"
+			],
+			[
+				"date",
+				"dateElement"
+			],
+			[
+				"tit",
+				"titleElement"
+			],
+			[
+				"buf",
+				"buffer"
+			],
+			[
+				"buffer",
+				"bufferSource"
+			],
+			[
+				"Ten",
+				"TenutoBridge"
+			],
+			[
+				"isB",
+				"isBetaEnabled"
+			],
+			[
+				"isBeta",
+				"isBetaOnly"
+			],
+			[
+				"fft",
+				"fftbuffer"
+			],
+			[
+				"mag",
+				"magdB2"
+			],
+			[
+				"num",
+				"numPoints"
+			],
+			[
+				"pol",
+				"poles"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"pa",
+				"padded_x"
+			],
+			[
+				"fram",
+				"frames2"
+			],
+			[
+				"fr",
+				"frames2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test/deflate.js",
+			"settings":
+			{
+				"buffer_size": 5786,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/zlib/inftrees.js",
+			"settings":
+			{
+				"buffer_size": 12500,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/deflate.js",
+			"settings":
+			{
+				"buffer_size": 10631,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/iccir/Downloads/pako-master",
+		"/Users/iccir/Downloads/pako-master/lib",
+		"/Users/iccir/Downloads/pako-master/lib/zlib",
+		"/Users/iccir/Downloads/pako-master/test"
+	],
+	"file_history":
+	[
+		"/Users/iccir/Downloads/pako-master/benchmark/profile.js",
+		"/Users/iccir/Downloads/pako-master/Makefile",
+		"/Users/iccir/Downloads/pako-master/node_modules/pako/dist/pako.js",
+		"/Users/iccir/Downloads/pako-master/dist/pako.js",
+		"/Users/iccir/Downloads/pako-master/test/chunks.js",
+		"/Users/iccir/Downloads/pako-master/test/strings.js",
+		"/Users/iccir/Downloads/pako-master/test/misc.js",
+		"/Users/iccir/Downloads/pako-master/test/gzip_specials.js",
+		"/Users/iccir/Downloads/pako-master/benchmark/implementations/inflate-pako/index.js",
+		"/Users/iccir/Downloads/pako-master/index.js",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Other/BridgeAdditions.oj",
+		"/Users/iccir/Projects/Theory/Web/defs/tenuto.d.ts",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Other/Logger.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Base/Application.oj",
+		"/Volumes/musictheory-0457584aa5da4c8d9653b4d07479dd63/state/all.debug-string-map",
+		"/Users/iccir/Projects/Theory/Web/UI/Base/AudioSequencePlayer.oj",
+		"/Users/iccir/Projects/Theory/Build.js",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Exercise Base/ExerciseUtils.oj",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Other/TenutoDebugReport.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Base/AudioPlatform.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Views/ExerciseActionSheet.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Main/ExerciseViewController.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Modules/ButtonDashboardModule.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/VIKit/VIRectUtils.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Base/WebAudioPlatform.oj",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Exercise Base/ExerciseQuestionGenerator.oj",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Exercise Base/Exercise.oj",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Other/TenutoBridge.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Soil/trace.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Soil/Common.js",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Exercise Base/ProgressReportFormatter.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Base/MIDIManager.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Lessons/LessonInit.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Base/WebAudioInstrumentFile.oj",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Other/Const.oj",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/MTCore/MTUtils.oj",
+		"/Users/iccir/Projects/Theory/Web/Compatibility/preflight.js",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/MTCore/MTAudioSequence.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Views/ChallengeHeaderView.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/VIKit/VITrigger.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Soil/browser.js",
+		"/Users/iccir/Projects/Theory/Web/UI/Base/Browser.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Base/TenutoBanner.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Lessons/View Controllers/LessonPlayerController.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Base/ActionSheet.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Main/Code Checker/CodeChecker.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Views/ExerciseBottomButtonsView.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Views/ChallengeVictoryView.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Lessons/View Controllers/LessonStillImageController.oj",
+		"/Users/iccir/Projects/Theory/Web/Site/js/marketing.js",
+		"/Users/iccir/Projects/Theory/Web/defs/web.d.ts",
+		"/Users/iccir/Projects/Theory/Web/UI/Soil/eiko.js",
+		"/Users/iccir/Projects/Theory/Web/UI/VIKit/VIUtils.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/VIKit/VIView.oj",
+		"/Users/iccir/Projects/Theory/compile/compile.js",
+		"/Users/iccir/Projects/Theory/Web/UI/Calculators/Views/CalculatorToneMatrixView.oj",
+		"/Users/iccir/Projects/Theory/Web/defs/eiko.d.ts",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Controllers/ChallengeViewController.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Calculators/Main/CalculatorViewController.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Base/SegmentedButton.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Base/PopUpMenuManager.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Base/ClickableControl.oj",
+		"/Users/iccir/Projects/oj/src/Generator.js",
+		"/Users/iccir/Projects/oj/src/Builder.js",
+		"/Users/iccir/Projects/oj/src/model/OJProtocol.js",
+		"/Users/iccir/Projects/oj/test/issues/TestIssue58.oj",
+		"/Users/iccir/Projects/oj/src/model/OJModel.js",
+		"/Users/iccir/Projects/oj/test/tests.js",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Model/ExerciseUISettings.oj",
+		"/Users/iccir/Projects/Theory/compile/server.js",
+		"/Users/iccir/Projects/oj/src/model/OJSymbolTyper.js",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Exercise Concrete/ChordEarTrainingExercise.oj",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Exercise Base/DebugReport.oj",
+		"/Users/iccir/Projects/Theory/Web/CoreLessons/Phrases and Cadences/lesson55.json",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Other/WebStringReader.oj",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Exercise Concrete/NoteEarTrainingExercise.oj",
+		"/Users/iccir/Projects/Theory/Web/CoreLessons/Seventh Chords/lesson45.json",
+		"/Volumes/Intel 80GB/installer.failurerequests",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Other/WebStringWriter.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Main/Typo Warner/TypoWarner.css",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Main/Typo Warner/TypoWarner.html",
+		"/Users/iccir/Projects/Theory/Web/Site/css/site.css",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Exercise Concrete/NoteConstructionExercise.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Controllers/ErrorViewController.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Controllers/ErrorViewController.css",
+		"/Users/iccir/Projects/Theory/Web/Compatibility/exercise_typo.html",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Main/Code Checker/CodeChecker.css",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Main/Code Checker/CodeChecker.html",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Main/ExerciseViewController.css",
+		"/Users/iccir/Projects/Theory/Web/Site/nginx",
+		"/Users/iccir/Projects/Theory/Web/CoreLessons/Jakefile",
+		"/Users/iccir/Projects/Theory/Web/UI/Base/CenteringView.css",
+		"/Users/iccir/Projects/Theory/Web/UI/Base/PleaView.oj",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Exercise Base/ProgressReport.oj",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Exercise Base/ProgressReportManager.oj",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Exercise Base/ReportUtils.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Controllers/ProgressReportController.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Base/PleaView.css",
+		"/Users/iccir/Projects/Theory/Web/UI/Base/WarningView.css",
+		"/Users/iccir/Projects/Theory/Web/UI/Base/WarningView.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Main/Exercise Customizer/ExerciseCustomizer.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Views/ProgressReportVerificationView.oj",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Main/Exercise Customizer/ExerciseCustomizer.html",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Main/Exercise Customizer/ExerciseCustomizer.css",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/Views/ProgressReportVerificationView.css",
+		"/Users/iccir/Projects/Theory/Web/UI/Lessons/View Controllers/LessonSlideshowController.oj",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Exercise Base/TenutoReportDocument.oj",
+		"/Users/iccir/Projects/Theory/Web/Site/templated/contact.html",
+		"/Users/iccir/Projects/Theory/Web/Site/shared/template.html",
+		"/Users/iccir/Projects/Theory/Web/Site/css/news.css",
+		"/Users/iccir/Projects/Theory/Web/UI/Exercises/ExerciseInit.oj",
+		"/Users/iccir/Projects/Theory/Web/Site/templated/exercises.html",
+		"/Users/iccir/Projects/Theory/Web/Site/templated/faq.html",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Exercise Concrete/FretboardIntervalIdentificationExercise.oj",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Exercise Concrete/IntervalConstructionExercise.oj",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Exercise Concrete/KeyboardReverseIdentificationExercise.oj",
+		"/Users/iccir/Projects/Theory/Web/Site/css/faq.css",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Exercise Concrete/FretboardNoteIdentificationExercise.oj",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Exercise Base/SettingsEncoder.oj",
+		"/Users/iccir/Projects/Theory/Web/Compatibility/compatibility.js",
+		"/Users/iccir/Projects/Theory/Web/UI/Lessons/Views/LessonStillImageView.oj",
+		"/Users/iccir/Projects/Theory/Web/Site/js/site.js",
+		"/Users/iccir/Projects/Theory/Web/Site/templated/products.html",
+		"/Users/iccir/Projects/Theory/Web/Site/css/marketing.css",
+		"/Users/iccir/Projects/Theory/Web/Compatibility/template.html",
+		"/Users/iccir/Projects/Theory/Web/Site/templated/lessons.html",
+		"/Users/iccir/Projects/Theory/Web/CoreTenuto/Exercise Concrete/ScaleIdentificationExercise.oj",
+		"/Users/iccir/Projects/Theory/Web/Site/templated/marketing_tenuto.html"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 91.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"inftrees",
+			"fixedtables",
+			"inflate_table",
+			"inftrees",
+			"testSingle",
+			"pako_method",
+			"adler32",
+			"Deflate",
+			"deflateSync",
+			"zlib.deflateSync",
+			"pako.deflate",
+			"GZheader",
+			"raw",
+			"crc32",
+			"inflate",
+			"deflatedArray",
+			"inflate",
+			"inflateInit2",
+			"Inflate",
+			".inflate",
+			"inflate",
+			"raw",
+			"adler32",
+			"deflateRaw",
+			"test"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test/deflate.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								503,
+								503
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/zlib/inftrees.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 12500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3262.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/deflate.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10453,
+								10460
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2223.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.TinySpork":
+	{
+		"height": 214.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 116.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "pako.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"profi",
+				"benchmark/profile.js"
+			],
+			[
+				"Brid",
+				"Web/CoreTenuto/Other/TenutoBridge.oj"
+			],
+			[
+				"Applic",
+				"Web/UI/Base/Application.oj"
+			],
+			[
+				"Tenuto",
+				"Web/CoreTenuto/Other/TenutoBridge.oj"
+			],
+			[
+				"Debug",
+				"Web/CoreTenuto/Other/DebugReport.oj"
+			],
+			[
+				"Exer",
+				"Web/CoreTenuto/Exercise Base/Exercise.oj"
+			],
+			[
+				"Logg",
+				"Web/CoreTenuto/Other/Logger.oj"
+			],
+			[
+				"App",
+				"Web/UI/Base/Application.oj"
+			],
+			[
+				"trace",
+				"Web/UI/Soil/trace.oj"
+			],
+			[
+				"AudioSeq",
+				"Web/UI/Base/AudioSequencePlayer.oj"
+			],
+			[
+				"tenuto",
+				"Web/defs/tenuto.d.ts"
+			],
+			[
+				"web",
+				"Web/defs/web.d.ts"
+			],
+			[
+				"ten",
+				"Web/defs/tenuto.d.ts"
+			],
+			[
+				"Bu",
+				"Build.js"
+			],
+			[
+				"Audio",
+				"Web/UI/Base/AudioSequencePlayer.oj"
+			],
+			[
+				"TenutoB",
+				"Web/CoreTenuto/Other/TenutoBridge.oj"
+			],
+			[
+				"",
+				"Web/UI/Base/Application.oj"
+			],
+			[
+				"Ao",
+				"Web/UI/Base/Application.oj"
+			],
+			[
+				"trac",
+				"Web/UI/Soil/trace.oj"
+			],
+			[
+				"AudioPl",
+				"Web/UI/Base/AudioPlatform.oj"
+			],
+			[
+				"Bui",
+				"Build.js"
+			],
+			[
+				"bui",
+				"Build.js"
+			],
+			[
+				"tent",
+				"Web/defs/tenuto.d.ts"
+			],
+			[
+				"VIRec",
+				"Web/UI/VIKit/VIRectUtils.oj"
+			],
+			[
+				"WebAudio",
+				"Web/UI/Base/WebAudioPlatform.oj"
+			],
+			[
+				"AudioFil",
+				"Web/UI/Base/WebAudioInstrumentFile.oj"
+			],
+			[
+				"applic",
+				"Web/UI/Base/Application.oj"
+			],
+			[
+				"ap",
+				"Web/UI/Base/AudioPlatform.oj"
+			],
+			[
+				"brow",
+				"Web/UI/Soil/browser.js"
+			],
+			[
+				"VITr",
+				"Web/UI/VIKit/VITrigger.oj"
+			],
+			[
+				"e",
+				"Web/UI/Soil/eiko.js"
+			],
+			[
+				"Eiko",
+				"Web/defs/eiko.d.ts"
+			],
+			[
+				"web.",
+				"Web/defs/web.d.ts"
+			],
+			[
+				"eik",
+				"Web/UI/Soil/eiko.js"
+			],
+			[
+				"ISsue58",
+				"test/issues/TestIssue58.oj"
+			],
+			[
+				"TestIssue58",
+				"test/issues/TestIssue58.oj"
+			],
+			[
+				"WebAudioP",
+				"Web/UI/Base/WebAudioPlatform.oj"
+			],
+			[
+				"AudioPLat",
+				"Web/UI/Base/AudioPlatform.oj"
+			],
+			[
+				"serv",
+				"compile/server.js"
+			],
+			[
+				"Lesson.oj",
+				"Web/UI/Lessons/Model/Lesson.oj"
+			],
+			[
+				"ser",
+				"compile/server.js"
+			],
+			[
+				"Report",
+				"Web/CoreTenuto/Exercise Base/ReportUtils.oj"
+			],
+			[
+				"ChordEAr",
+				"Web/CoreTenuto/Exercise Concrete/ChordEarTrainingExercise.oj"
+			],
+			[
+				"util",
+				"Web/CoreTenuto/Soil/util.js"
+			],
+			[
+				"WebAud",
+				"Web/UI/Base/WebAudioPlatform.oj"
+			],
+			[
+				"leson55",
+				"Web/CoreLessons/Phrases and Cadences/lesson55.json"
+			],
+			[
+				"Lesson45",
+				"Web/CoreLessons/Seventh Chords/lesson45.json"
+			],
+			[
+				"NoteEar",
+				"Web/CoreTenuto/Exercise Concrete/NoteEarTrainingExercise.oj"
+			],
+			[
+				"Sett",
+				"Web/CoreTenuto/Exercise Base/Settings.oj"
+			],
+			[
+				"WebStr",
+				"Web/CoreTenuto/Other/WebStringWriter.oj"
+			],
+			[
+				"WebS",
+				"Web/CoreTenuto/Other/WebStringReader.oj"
+			],
+			[
+				"Typoe",
+				"Web/UI/Exercises/Main/Typo Warner/TypoWarner.html"
+			],
+			[
+				"ErrorVi",
+				"Web/UI/Exercises/Controllers/ErrorViewController.oj"
+			],
+			[
+				"Exeric",
+				"Web/UI/Exercises/ExerciseInit.oj"
+			],
+			[
+				"TypoeW",
+				"Web/UI/Exercises/Main/Typo Warner/TypoWarner.css"
+			],
+			[
+				"Typo",
+				"Web/UI/Exercises/Main/Typo Warner/TypoWarner.html"
+			],
+			[
+				"CodECh",
+				"Web/UI/Exercises/Main/Code Checker/CodeChecker.html"
+			],
+			[
+				"ExerciseView",
+				"Web/UI/Exercises/Main/ExerciseViewController.oj"
+			],
+			[
+				"ExerciseVi",
+				"Web/UI/Exercises/Main/ExerciseViewController.css"
+			],
+			[
+				"ExerciseI",
+				"Web/UI/Exercises/ExerciseInit.oj"
+			],
+			[
+				"Jake",
+				"Web/CoreLessons/Jakefile"
+			],
+			[
+				"simple",
+				"Web/Site/templated/home.html"
+			],
+			[
+				"ErrorViewController",
+				"Web/UI/Exercises/Controllers/ErrorViewController.css"
+			],
+			[
+				"ErrorV",
+				"Web/UI/Exercises/Controllers/ErrorViewController.oj"
+			],
+			[
+				"Rake",
+				"Web/CoreLessons/Jakefile"
+			],
+			[
+				"ngin",
+				"Web/Site/nginx"
+			],
+			[
+				"Plea",
+				"Web/UI/Base/PleaView.css"
+			],
+			[
+				"PleaV",
+				"Web/UI/Base/PleaView.css"
+			],
+			[
+				"Warn",
+				"Web/UI/Base/WarningView.css"
+			],
+			[
+				"Warning",
+				"Web/UI/Base/WarningView.css"
+			],
+			[
+				"Code",
+				"Web/UI/Exercises/Main/Code Checker/CodeChecker.oj"
+			],
+			[
+				"CodeCh",
+				"Web/UI/Exercises/Main/Code Checker/CodeChecker.html"
+			],
+			[
+				"ExerciseCu",
+				"Web/UI/Exercises/Main/Exercise Customizer/ExerciseCustomizer.oj"
+			],
+			[
+				"ProgressReportVer",
+				"Web/UI/Exercises/Views/ProgressReportVerificationView.oj"
+			],
+			[
+				"PRogressReportVer",
+				"Web/UI/Exercises/Views/ProgressReportVerificationView.oj"
+			],
+			[
+				"Repor",
+				"Web/CoreTenuto/Exercise Base/ReportUtils.oj"
+			],
+			[
+				"ProgressReportF",
+				"Web/CoreTenuto/Exercise Base/ProgressReportFormatter.oj"
+			],
+			[
+				"Prog",
+				"Web/CoreTenuto/Exercise Base/ProgressReportManager.oj"
+			],
+			[
+				"PRog",
+				"Web/CoreTenuto/Exercise Base/ProgressReport.oj"
+			],
+			[
+				"VErifi",
+				"Web/UI/Exercises/Views/ProgressReportVerificationView.oj"
+			],
+			[
+				"Cent",
+				"Web/UI/Base/CenteringView.css"
+			],
+			[
+				"Ple",
+				"Web/UI/Base/PleaView.oj"
+			],
+			[
+				"REport",
+				"Web/CoreTenuto/Exercise Base/TenutoReportDocument.oj"
+			],
+			[
+				"bu",
+				"Build.js"
+			],
+			[
+				"b",
+				"Build.js"
+			],
+			[
+				"B",
+				"Build.js"
+			],
+			[
+				"com",
+				"compile/compile.js"
+			],
+			[
+				"Progres",
+				"Web/CoreTenuto/Exercise Base/ProgressReport.oj"
+			],
+			[
+				"Progre",
+				"Web/CoreTenuto/Exercise Base/ProgressReport.oj"
+			],
+			[
+				"pref",
+				"Web/Compatibility/preflight.js"
+			],
+			[
+				"compat",
+				"Web/Compatibility/compatibility.js"
+			],
+			[
+				"faq",
+				"Web/Site/templated/faq.html"
+			],
+			[
+				"exer",
+				"Web/Site/templated/exercises.html"
+			],
+			[
+				"sit",
+				"Web/Site/css/site.css"
+			],
+			[
+				"prod",
+				"Web/Site/templated/products.html"
+			],
+			[
+				"fa",
+				"Web/Site/templated/faq.html"
+			],
+			[
+				"te",
+				"Web/Site/shared/template.html"
+			],
+			[
+				"templ",
+				"Web/Compatibility/template.html"
+			],
+			[
+				"market",
+				"Web/Site/css/marketing.css"
+			],
+			[
+				"cont",
+				"Web/Site/templated/contact.html"
+			],
+			[
+				"produ",
+				"Web/Site/templated/products.html"
+			],
+			[
+				"produc",
+				"Web/Site/css/products.css"
+			],
+			[
+				"site",
+				"Web/Site/css/site.css"
+			],
+			[
+				"emb",
+				"Web/Site/templated/embed.html"
+			],
+			[
+				"Prod",
+				"Web/Site/templated/products.html"
+			],
+			[
+				"news.",
+				"Web/Site/js/news.js"
+			],
+			[
+				"nws",
+				"Web/Site/templated/news.html"
+			],
+			[
+				"news",
+				"Web/Site/js/news.js"
+			],
+			[
+				"contac",
+				"Web/Site/js/contact.js"
+			],
+			[
+				"new",
+				"Web/Site/js/news.js"
+			],
+			[
+				"leg",
+				"Web/CoreTenuto/Other/TenutoLegal.html"
+			],
+			[
+				"legal",
+				"Web/Site/templated/legal.html"
+			],
+			[
+				"priv",
+				"Web/Site/templated/privacy.html"
+			],
+			[
+				"lessons.h",
+				"Web/Site/templated/lessons.html"
+			],
+			[
+				"lega",
+				"Web/Site/templated/legal.html"
+			],
+			[
+				"ScaleI",
+				"Web/CoreTenuto/Exercise Concrete/ScaleIdentificationExercise.oj"
+			],
+			[
+				"Interval",
+				"Web/CoreTenuto/Exercise Concrete/IntervalIdentificationExercise.oj"
+			],
+			[
+				"comm",
+				"Web/UI/Soil/Common.js"
+			],
+			[
+				"Inter",
+				"Web/CoreTenuto/Exercise Concrete/IntervalIdentificationExercise.oj"
+			],
+			[
+				"Settings",
+				"Web/CoreTenuto/Exercise Base/SettingsEncoder.oj"
+			],
+			[
+				"TenutoReg",
+				"Web/CoreTenuto/Other/TenutoRegistry.oj"
+			],
+			[
+				"SettingsE",
+				"Web/CoreTenuto/Exercise Base/SettingsEncoder.oj"
+			],
+			[
+				"IntervalId",
+				"Web/CoreTenuto/Exercise Concrete/IntervalIdentificationExercise.oj"
+			],
+			[
+				"VIRect",
+				"Web/UI/VIKit/VIRectUtils.oj"
+			],
+			[
+				"PopUpMenuManager",
+				"Web/UI/Base/PopUpMenuManager.oj"
+			],
+			[
+				"Note",
+				"Web/CoreTenuto/Exercise Concrete/NoteIdentificationExercise.oj"
+			],
+			[
+				"VICon",
+				"Web/UI/VIKit/VIContext.oj"
+			],
+			[
+				"WebAudioPl",
+				"Web/UI/Base/WebAudioPlatform.oj"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
