@@ -20,6 +20,7 @@ var pako = require('pako');
 var input = new Uint8Array();
 //... fill input data here
 var output = pako.deflateRaw(input);
+```
 
 Authors
 -------
