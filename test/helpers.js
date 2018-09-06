@@ -44,13 +44,13 @@ function loadSamples(subdir) {
 
   // Include 10% of the files within node_modules for testing
   walk(path.join(__dirname, "..", "node_modules")).forEach(function(filepath) {
-    var extname  = path.extname(filepath),
-        basename = path.basename(filepath, extname),
-        content  = new Uint8Array(fs.readFileSync(filepath));
+    if (Math.random() < 0.10) {
+        var extname  = path.extname(filepath),
+            basename = path.basename(filepath, extname),
+            content  = new Uint8Array(fs.readFileSync(filepath));
 
-    if (Math.random() < 0.1) {
-        result[filepath] = content;
-    }  
+            result[filepath] = content;
+        }  
     });
 
   return result;
@@ -60,18 +60,25 @@ function loadSamples(subdir) {
 // Compare 2 buffers (can be Array, Uint8Array, Buffer).
 //
 function cmpBuf(a, b) {
+    var ok = true;
+
   if (a.length !== b.length) {
-    return false;
+      console.log(a.length + " !== " + b.length);
+      ok = false;
   }
 
   for (var i = 0, l = a.length; i < l; i++) {
     if (a[i] !== b[i]) {
-      //console.log('pos: ' +i+ ' - ' + a[i].toString(16) + '/' + b[i].toString(16));
-      return false;
+      console.log('pos: ' +i+ ' - ' + a[i].toString(16) + '/' + b[i].toString(16));
+      ok = false;
     }
   }
 
-  return true;
+  if (!ok) {
+    console.log(a, b);
+  }
+
+  return ok;
 }
 
 
@@ -93,12 +100,11 @@ function testSingle(zlib_method, pako_method, data, options) {
   var zlib_result = zlib_method(toBuffer(data), zlib_options);
   var pako_result = pako_method(data, options);
 
-  // One more hack: gzip header contains OS code, that can vary.
-  // Override OS code if requested. For simplicity, we assume it on fixed
-  // position (= no additional gzip headers used)
-  if (options.ignore_os) zlib_result[9] = pako_result[9];
+  assert.ok(cmpBuf(zlib_result, toBuffer(pako_result)));
 
-  assert.deepEqual(pako_result, zlib_result);
+  // console.log("HERE");
+
+  // assert.deepEqual(pako_result, zlib_result);
 }
 
 

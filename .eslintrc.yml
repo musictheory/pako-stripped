@@ -20,7 +20,6 @@ rules:
   curly:                  [ 2, 'multi-line' ]
   # dot-notation:           [ 2, { allowKeywords: true } ]
   dot-location:           [ 2, 'property' ]
-  eqeqeq:                 2
   func-style:             [ 2, declaration ]
   guard-for-in:           2
   handle-callback-err:    2
@@ -70,7 +69,6 @@ rules:
   no-iterator:            2
   #no-labels:              2
   no-label-var:           2
-  no-lone-blocks:         1
   no-lonely-if:           2
   no-loop-func:           2
   no-mixed-requires:      [ 1, { "grouping": true } ]

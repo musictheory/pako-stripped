@@ -15,7 +15,8 @@ var samples = helpers.loadSamples();
 
 
 describe('Deflate defaults', function () {
-  it('deflate, no options', function () {
-    testSamples(zlib.deflateRawSync, pako.deflateRaw, samples, {});
+  it('deflate', function () {
+    testSamples(zlib.deflateSync, pako.deflate, samples, {});
   });
+
 });
